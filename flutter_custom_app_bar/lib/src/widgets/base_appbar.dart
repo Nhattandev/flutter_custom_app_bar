@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fluttercustomappbar/flutter_custom_app_bar.dart';
+import '../../flutter_custom_app_bar.dart';
 
 ///Tan.nguyen 6/15/20 : Icon app bar
 class BaseIconAppBar extends StatelessWidget {
