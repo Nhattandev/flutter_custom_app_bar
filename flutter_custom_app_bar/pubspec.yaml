@@ -1,0 +1,17 @@
+name: flutter_custom_app_bar
+description: flutter custom app bar
+version: 0.0.1
+author: Tan Nguyen <Nhattandev@gmail.com>
+homepage: https://github.com/Nhattandev/flutter_custom_app_bar.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
